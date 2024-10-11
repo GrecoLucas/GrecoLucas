@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Lucas Greco, a passionate student of Informati
 ---
 
 ## 📊 Stats
-![GrecoLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![GrecoLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrecoLucas&show_icons=true&theme=gruvbox)
 
 ---
 
