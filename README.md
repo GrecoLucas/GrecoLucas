@@ -17,9 +17,8 @@ Welcome to my GitHub profile! I'm Lucas Greco, a passionate student of Informati
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=flat-square&logo=haskell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ---
 
@@ -30,6 +29,6 @@ Welcome to my GitHub profile! I'm Lucas Greco, a passionate student of Informati
 
 ## 📁 Projects 
 
-- **Game made in Lanterna with Java**: [Repository Link](https://github.com/GrecoLucas/hero)
+- **Game made in Lanterna with Java**: [Repository Link](https://github.com/orgs/FEUP-LDTS-2024/teams/t14g03)
 - **Graph Project with C++**: [Repository Link](https://github.com/GrecoLucas/projetoaed)
 - **Graph Project with C++ (Complex Algorithms)**: [Repository Link](https://github.com/GrecoLucas/ProjectDA2)
