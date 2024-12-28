@@ -6,7 +6,10 @@
 
 
 Welcome to my GitHub profile! I'm Lucas Greco, a passionate student of Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto (FEUP). 
-
+<img 
+      src="https://visitor-badge.laobi.icu/badge?page_id=tomas-oliveira.visitor-badge" 
+      alt="Visitors"
+    />
 ---
 
 ## 💻 Languagens:
