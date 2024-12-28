@@ -2,7 +2,8 @@
 
 [![University of Porto](https://img.shields.io/badge/University%20of%20Porto-FF6A00?style=for-the-badge&logo=school&logoColor=white)](https://sigarra.up.pt/feup/pt/web_page.Inicial)
 [![GitLab](https://img.shields.io/badge/GitLab-FF4500?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.fe.up.pt/up202208296)
-[![Email](https://img.shields.io/badge/Email-%40%20-%E04D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.grecoj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-E04D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.grecoj@gmail.com)  
+
 
 Welcome to my GitHub profile! I'm Lucas Greco, a passionate student of Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto (FEUP). 
 
